@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test_divisor.dir/test_divisor.cpp.o CMakeFiles/test_divisor.dir/greatest_common_divisor_of_Strings.cpp.o -o test_divisor  /usr/lib/libgtest.so.1.14.0 -lpthread

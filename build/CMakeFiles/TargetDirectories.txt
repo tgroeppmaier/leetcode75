@@ -1,0 +1,4 @@
+/home/timo/MEGA/coding/leetcode/leetcode75/build/CMakeFiles/test_divisor.dir
+/home/timo/MEGA/coding/leetcode/leetcode75/build/CMakeFiles/test.dir
+/home/timo/MEGA/coding/leetcode/leetcode75/build/CMakeFiles/edit_cache.dir
+/home/timo/MEGA/coding/leetcode/leetcode75/build/CMakeFiles/rebuild_cache.dir
